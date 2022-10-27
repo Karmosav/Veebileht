@@ -1,0 +1,8 @@
+body {background-color: rgb(105, 179, 209);}
+h1 {color: rgb(120, 221, 204);}
+table, th, td {
+    border: 1px solid rgb(30, 160, 48);
+    }
+.punane{color: red;}
+.sinine{color: blue;}
+h1 {font-family: Brush Script MT;text-align: center;}
